@@ -1,1 +1,1 @@
-StanceX:Enhancing Multimodal Stance Detection through Text-Image Fusion
+StanceX:Enhancing Multimodal Stance Detection via Graph Reasoning and Hybrid Loss
